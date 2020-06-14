@@ -4,8 +4,6 @@
 #include "PCF8574.h"
 #include  <Ticker.h>//Ticker Library
 
-//blinker.attach(0.5, CallTime);
-//blinker.detach();
 
 Ticker blinker;
 //blinker.attach(0.5, CallTime);
